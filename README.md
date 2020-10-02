@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/theakhiljha/Ultimate-logic.svg)](http://hits.dwyl.com/theakhiljha/Ultimate-logic)
+[![HitCount](http://hits.dwyl.com/theakhiljha/Ultimate-Logic.svg)](http://hits.dwyl.com/theakhiljha/Ultimate-Logic)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 # <div align="center">🖥️Ultimate Logic💻</div>
