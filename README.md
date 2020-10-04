@@ -58,7 +58,7 @@
 ##### 3. Deadline is 31st October.
 ##### 4. I will personally check each code and if I find any code not following the rules, then his/her Pull Request will be marked as invalid and it won't be counted.😥
 
-#### If you need any help, Contact me at **7991885162**(call or WhatsApp) at any time 24*7.😊
+#### If you need any help, Contact me at **7992289450**(WhatsApp) or Akhilkumarjha9@gmail.com (Email) at any time 24*7.😊
 ##
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
