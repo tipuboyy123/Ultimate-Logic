@@ -9,33 +9,38 @@
 ### <div align="center">STEPS:-</div>
 
   ### 1. Create a GitHub account( It's free:) )
+  ![](https://i.ibb.co/4WFftgD/Screenshot-from-2020-10-02-00-30-47.jpg)
 <br></br>
 ##
   ### 2. Go to https://hacktoberfest.digitalocean.com and sign up for a new profile by providing authentication with Github.(It's   very     easy, just follow the steps)
-  ![](https://i.ibb.co/0jHpjBP/hacktoberfest.jpg)
+  ![](https://i.ibb.co/PjrrX2M/Screenshot-from-2020-10-02-00-39-10.jpg)
 <br></br>
 ##
   ### 3. Then go to https://github.com/theakhiljha/Ultimate-Logic and click on *"star"*🌟 and *"fork"*🍴.
-  ![](https://i.ibb.co/R4p91T9/fork1.jpg)
+  ![](https://i.ibb.co/vvcfPNK/Github.jpg)
 <br></br>
 ##
-  ### 4. Now click on the "*Programs*" folder and click on "*new file*"📁.
-  ![](https://i.ibb.co/PGymWWZ/1-0-2-Git-create-file.png)
+  ### 4. Now go to your forked "*Repository*" and click on "*Add File*" then click on "*Create New File*"📁.
+  ![](https://i.ibb.co/m8b8YYP/Github-1.jpg)
 <br></br>
 ##
-  ### 5. Type the name of the code with the proper extensions and then type the code⌨️ in the given area. For eg.- prime.py
-  ![](https://i.ibb.co/sm8k4FY/Capture.png)
+  ### 5. Then enter the name of the Folder and add "* / *" after the name it will create a new folder.
+  ![](https://i.ibb.co/CMMMSJj/newfolder.jpg)
 <br></br>
 ##
-  ### 6. Go to the bottom of the page and click on the "*Commit changes*"✔️ button.
-  ![](https://i.ibb.co/QQmwywM/commit.jpg)
+  ### 6. Type the name of the code with the proper extensions and then type the code⌨️ in the given area. For eg.- prime.py
+  ![](https://i.ibb.co/GnFKrZ9/Screenshot-from-2020-10-04-22-35-40.jpg)
 <br></br>
 ##
-  ### 7. On the next window, click on the "*Pull Request*"✔️ button.
+  ### 7. Go to the bottom of the page and click on the "*Commit changes*"✔️ button.
+  ![](https://i.ibb.co/QQM95mS/commit.jpg)
+<br></br>
+##
+  ### 8. On the next window, click on the "*Pull Request*"✔️ button.
   ![](https://i.ibb.co/LxW7q9F/pull.jpg)
 <br></br>
 ##
-  ### 8. Click on the *"Create Pull Request Button"*✔️.
+  ### 9. Click on the *"Create Pull Request Button"*✔️.
   ![](https://i.ibb.co/17YNgMw/pr-LI.jpg)
   ##
   ### And again on the same button on the next window.
