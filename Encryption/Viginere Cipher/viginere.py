@@ -25,3 +25,15 @@ class VigenereCipher(object):
 
     def decode(self, message: str):
         return self.encode(message, shifting_mode=-1)
+
+
+# Little test program for ViginereCipher class
+alphabet = input("Enter alphabet: ")
+password = input("Enter password: ")
+message = input("Enter message to encrypt: ")
+
+encryptor = VigenereCipher(alphabet, password)
+encoded_message = encryptor.encode(message)
+
+print("Encrypted text: {0}".format(encoded_message))
+print("Decrypted text: {0}".format(encryptor.decode(encoded_message)))
